@@ -1,2 +1,4 @@
 # Data-Analytics
 Project on Data Analytics
+This Project presents a comprehensive business analytics analysis of sales and customer data, beginning with the creation of an Entity-Relationship Diagram (ERD) and thorough data cleaning to ensure consistency and accuracy. Using summary statistics, boxplots, and gross margin calculations, the report identifies patterns in sales performance across product categories. Outlier analysis reveals valid high-value transactions, and an ANOVA test confirms that gross margin significantly varies by price category. A multiple regression model highlights key predictors of gross margin, including sale amount, price category, and unit cost. The report concludes with actionable insights for management, emphasizing pricing strategy optimization, targeted marketing for high-value customers, and outlier management to improve profitability and strategic planning.
+
